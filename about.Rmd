@@ -10,7 +10,7 @@ age <- 25
 today <- Sys.Date() 
 next_birthday <- as.Date("2022-01-04")
 ```
-My name is `r name` and I am `r age` years old. It is `r next_birthday - today` days until my birthday. This is my first R markdown personal website build at `r today`. Glad to meet you all.
+My name is `r name` and I am `r age` years old. It is `r next_birthday - today` days until my birthday. This is my first build R markdown personal website update at `r today`. Glad to meet you all.
 
 Gradutes: Pay Fong High School Malaysia, Taiwan Chang Gung University MT major
 
